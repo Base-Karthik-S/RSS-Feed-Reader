@@ -20,8 +20,8 @@ This is a simple Python-based terminal RSS feed reader that allows you to fetch 
 
 2. Open your terminal and navigate to the project directory.
 
-3. Run the script using the following command:
-python RSS_Feed_Reader.py
+3. Run the script using the following command:<br/>
+   python RSS_Feed_Reader.py
 
 
 4. When prompted, enter the URL of the RSS feed you want to read.
@@ -30,20 +30,19 @@ python RSS_Feed_Reader.py
 
 ## Example
 
-Here's a sample usage of the RSS feed reader:
-$ python rss_reader.py
-Enter the RSS feed URL: https://example.com/rss-feed
-Title: Example News Feed
-Description: The latest news from the Example website
-Entries:
+Here's a sample usage of the RSS feed reader:<br/>
+$ python rss_reader.py<br/>
+Enter the RSS feed URL: https://example.com/rss-feed <br/>
+Title: Example News Feed <br/>
+Description: The latest news from the Example website <br/>
+Entries: <br/>
 
-Title: Sample Article 1
-Link: https://example.com/sample-article-1
-Published Date: Wed, 20 Oct 2023 10:00:00 GMT
+Title: Sample Article 1 <br/>
+Link: https://example.com/sample-article-1 <br/>
+Published Date: Wed, 20 Oct 2023 10:00:00 GMT <br/>
 
-Summary:
+Summary: <br/>
 This is the summary of the first article.
-
 
 ## Customization
 
