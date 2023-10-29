@@ -21,7 +21,7 @@ This is a simple Python-based terminal RSS feed reader that allows you to fetch 
 2. Open your terminal and navigate to the project directory.
 
 3. Run the script using the following command:<br/>
-   python RSS_Feed_Reader.py
+   `python RSS_Feed_Reader.py`
 
 
 4. When prompted, enter the URL of the RSS feed you want to read.
