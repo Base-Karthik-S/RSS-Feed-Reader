@@ -7,7 +7,7 @@
 
 -->Built with Python<br/>
 -->This Python script is a simple RSS feed reader that allows you to fetch and parse RSS feeds from various sources.<br/>
--->It lets you input the URLs of RSS feeds you want to read, and then it displays the titles, descriptions, and links of the latest items from those feeds.
+It lets you input the URLs of RSS feeds you want to read, and then it displays the titles, descriptions, and links of the latest items from those feeds.
 
 ## License
 
