@@ -1,15 +1,24 @@
-# DevProjects - RSS Feed Reader in Terminal
+# Terminal RSS Feed Reader
 
--->This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!<br/>
--->Find the project requirements here: [RSS feed reader in terminal](https://www.codementor.io/projects/tool/rss-feed-reader-in-terminal-atx32jp82q)
+This is a simple Python-based terminal RSS feed reader that allows you to fetch and read RSS feeds in the command line.
 
-## Tech/framework used
+## Features
 
--->Built with Python<br/>
--->This Python script is a simple RSS feed reader that allows you to fetch and parse RSS feeds from various sources.<br/>
-It lets you input the URLs of RSS feeds you want to read, and then it displays the titles, descriptions, and links of the latest items from those feeds.
+- Fetch RSS feeds from any valid RSS feed URL.
+- Display the title, description, and individual feed entries.
+- Uses the `requests` and `feedparser` libraries for feed retrieval and parsing.
+- Provides a basic, text-based interface for reading RSS feeds in your terminal.
 
-## License
+## Prerequisites
 
--->[MIT](https://choosealicense.com/licenses/mit/)<br/>
--->Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
+- Python 3.x installed.
+- Install required Python libraries by running: `pip install requests feedparser`
+
+## Usage
+
+1. Clone or download this repository to your local machine.
+
+2. Open your terminal and navigate to the project directory.
+
+3. Run the script using the following command:
+
